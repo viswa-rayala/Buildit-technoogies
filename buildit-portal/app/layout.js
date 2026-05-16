@@ -18,7 +18,7 @@ export const metadata = {
     "BuildIT Technologies offers industry-focused remote internships in Web Development, AI/ML, Cloud Computing, Cybersecurity, Data Science, and more.",
 
   icons: {
-    icon: "/logo.png",
+    icon: "public/logo.png",
   },
 };
 
